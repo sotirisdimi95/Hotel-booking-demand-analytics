@@ -9,7 +9,7 @@ An end-to-end business intelligence and data analytics project exploring hotel r
 
 ##  Project Overview
 This project simulates a real-world revenue management and hospitality analytics workflow. The objective is to transform raw booking data into actionable business intelligence through a multi-page interactive Power BI dashboard, identifying key drivers of revenue leakage and booking behaviors.
-
+* **Dataset Source:** The analysis is based on the [Hotel Booking Demand Dataset on Kaggle] (https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 ---
 
 ##  Tech Stack & Tools
@@ -40,4 +40,4 @@ This project simulates a real-world revenue management and hospitality analytics
 * **Page 1: Overview** — Overview of core KPIs, monthly seasonality, pricing trends, and geographic breakdown.
 * **Page 2: Customer & Market Insights** — Deep-dive analysis focusing on guest behavior, segment performance, and lead-time/cancellation risk correlation.
 
-* **Dataset Source:** The analysis is based on the [Hotel Booking Demand Dataset on Kaggle] (https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+
