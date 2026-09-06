@@ -20,6 +20,14 @@ This project simulates a real-world revenue management and hospitality analytics
 
 ---
 
+##  SQL Data Transformation & Cleaning
+Prior to dashboard development, data was inspected and prepared using SQL to ensure integrity and performance. Key operations included:
+* Handling missing values and standardizing categorical fields.
+* Validating core metrics (such as cancellation ratios and lead time groupings) at the database level.
+* *You can check the complete SQL scripts in the `sql/` folder of this repository.*
+
+---
+
 ##  Key Performance Indicators (KPIs) & Data Model
 * **Total Bookings:** Comprehensive volume tracking across various segments.
 * **Cancellation Rate %:** Monitoring cancellation risk to address revenue leakage.
