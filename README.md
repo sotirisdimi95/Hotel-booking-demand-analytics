@@ -39,3 +39,5 @@ This project simulates a real-world revenue management and hospitality analytics
 ##  Dashboard Structure
 * **Page 1: Overview** — Overview of core KPIs, monthly seasonality, pricing trends, and geographic breakdown.
 * **Page 2: Customer & Market Insights** — Deep-dive analysis focusing on guest behavior, segment performance, and lead-time/cancellation risk correlation.
+
+* **Dataset Source:** The analysis is based on the [Hotel Booking Demand Dataset on Kaggle] (https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
